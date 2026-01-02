@@ -1,21 +1,20 @@
-MIT License
+# 🔱 TheNikeHades-AutoDupe-Addon Özel Lisansı
 
-Copyright (c) 2026 TheNikeHades0
+Bu yazılımın telif hakları **TheNikeHades**'e aittir. Bu proje hem emeği korumak hem de topluluğa katkı sağlamak amacıyla şu şartlara tabidir:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### ✅ Bireysel Kullanım ve Geliştirme
+* Yazılımı indirip kişisel olarak oyununuzda kullanmak tamamen serbesttir.
+* Kodları kendi bilgisayarınızda eğitim amaçlı inceleyebilir ve üzerinde denemeler yapabilirsiniz.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### ⚠️ Paylaşım ve Modifikasyon Şartı (ÖNEMLİ)
+* **İzin Zorunluluğu:** Eğer kod üzerinde bir değişiklik yaptıysanız ve bunu "modifiye edilmiş" bir sürüm olarak başka bir yerde yayınlamak istiyorsanız, **TheNikeHades'ten önceden yazılı izin almanız zorunludur.**
+* **Kaynak Belirtme:** İzin alınsa dahi, orijinal projenin bu GitHub sayfası olduğu ve asıl yapımcının TheNikeHades olduğu net bir şekilde belirtilmelidir.
+* **Yayınlama:** Orijinal veya değiştirilmiş dosyalar (jar/kod), izin alınmadan başka web sitelerinde, forumlarda veya Discord sunucularında paylaşılamaz.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 🚫 Kesin Yasaklar
+* Bu projenin herhangi bir parçası **asla satılamaz** ve ticari bir eklentiye/pakete dahil edilemez.
+* Orijinal yapımcı gizlenerek "kendi koduymuş gibi" servis edilemez.
+
+---
+Copyright (c) 2026 TheNikeHades.
+*Daha iyi bir fikir mi buldun? Bir modifikasyon mu yaptın? Bana GitHub üzerinden ulaş, beraber değerlendirelim!* 🔱
