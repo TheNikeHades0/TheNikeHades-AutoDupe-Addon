@@ -30,7 +30,7 @@
 ## 🛠️ Kurulum
 
 1. **Meteor Client**'ın en güncel 1.21.4 sürümünü kurun.
-2. [Releases](../../releases) sekmesinden `TheNikeHades-AutoDupe-Addon.jar` dosyasını indirin.
+2. [Sürümler (Releases)](https://github.com/TheNikeHades0/TheNikeHades-AutoDupe-Addon/releases) sekmesinden en güncel `.jar` dosyasını indirin.
 3. İndirdiğiniz dosyayı `.minecraft/mods` klasörüne atın.
 4. Oyun içinde **TheNikeHades-Dupe** modülünü aktif edin.
 
