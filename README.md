@@ -44,3 +44,4 @@ git clone [https://github.com/TheNikeHades0/TheNikeHades-AutoDupe-Addon.git](htt
 
 # Derleyin (Testleri atlamak için -x test parametresini kullanın)
 ./gradlew clean build -x test --no-daemon
+
