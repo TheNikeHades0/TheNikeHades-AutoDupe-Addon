@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="indir-2.jpg" alt="TheNikeHades-AutoDupe-Banner" width="800">
+  <img src="banner.jpg" alt="TheNikeHades-AutoDupe-Banner" width="800">
 </p>
 
 <p align="center">
