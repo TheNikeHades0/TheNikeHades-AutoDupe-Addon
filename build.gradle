@@ -1,0 +1,28 @@
+plugins {
+    id 'fabric-loom' version '1.7-SNAPSHOT'
+}
+
+repositories {
+    maven { url = "https://maven.fabricmc.net/" }
+    maven { url = "https://jitpack.io" }
+    mavenCentral()
+    // Yerel klasörü bir kütüphane kaynağı olarak tanıtıyoruz
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:1.21.4"
+    mappings "net.fabricmc:yarn:1.21.4+build.2:v2"
+    modImplementation "net.fabricmc:fabric-loader:0.16.9"
+    
+    // libs klasöründeki jar dosyasını uzantısız olarak buraya yazdık
+    modImplementation name: 'meteor-client-1.21.4-42'
+}
+
+// Java derleme ayarlarını manuel yapıyoruz ki "Java bulunamadı" demesin
+compileJava {
+    options.release = 21
+    options.encoding = 'UTF-8'
+}

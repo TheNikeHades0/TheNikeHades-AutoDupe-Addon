@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "thenikehades-addon",
+  "version": "1.0.0",
+  "name": "§5TheNikeHades Addon",
+  "description": "Professional Auto Frame Dupe System.",
+  "authors": [
+    "TheNikeHades"
+  ],
+  "contact": {
+    "sources": "https://github.com/thenikehades/addon"
+  },
+  "license": "MIT",
+  "icon": "assets/thenikehades-addon/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "meteor": [
+      "com.thenikehades.addon.NikeAddon"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "meteor-client": "*"
+  }
+}
