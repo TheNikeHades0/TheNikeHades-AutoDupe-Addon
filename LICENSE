@@ -1,20 +1,83 @@
-# 🔱 TheNikeHades-AutoDupe-Addon Özel Lisansı
+🔱 TheNikeHades AutoDupe Addon – Custom License
+Copyright Notice
 
-Bu yazılımın telif hakları **TheNikeHades**'e aittir. Bu proje hem emeği korumak hem de topluluğa katkı sağlamak amacıyla şu şartlara tabidir:
+Copyright © 2026 TheNikeHades.
+All rights reserved.
 
-### ✅ Bireysel Kullanım ve Geliştirme
-* Yazılımı indirip kişisel olarak oyununuzda kullanmak tamamen serbesttir.
-* Kodları kendi bilgisayarınızda eğitim amaçlı inceleyebilir ve üzerinde denemeler yapabilirsiniz.
+1. Purpose of This License
 
-### ⚠️ Paylaşım ve Modifikasyon Şartı (ÖNEMLİ)
-* **İzin Zorunluluğu:** Eğer kod üzerinde bir değişiklik yaptıysanız ve bunu "modifiye edilmiş" bir sürüm olarak başka bir yerde yayınlamak istiyorsanız, **TheNikeHades'ten önceden yazılı izin almanız zorunludur.**
-* **Kaynak Belirtme:** İzin alınsa dahi, orijinal projenin bu GitHub sayfası olduğu ve asıl yapımcının TheNikeHades olduğu net bir şekilde belirtilmelidir.
-* **Yayınlama:** Orijinal veya değiştirilmiş dosyalar (jar/kod), izin alınmadan başka web sitelerinde, forumlarda veya Discord sunucularında paylaşılamaz.
+This software is provided to protect the creator’s work while still allowing the community to use and learn from it under strict conditions.
 
-### 🚫 Kesin Yasaklar
-* Bu projenin herhangi bir parçası **asla satılamaz** ve ticari bir eklentiye/pakete dahil edilemez.
-* Orijinal yapımcı gizlenerek "kendi koduymuş gibi" servis edilemez.
+2. Permitted Use
 
----
-Copyright (c) 2026 TheNikeHades.
-*Daha iyi bir fikir mi buldun? Bir modifikasyon mu yaptın? Bana GitHub üzerinden ulaş, beraber değerlendirelim!* 🔱
+✅ Personal Use
+You are allowed to download and use this software for personal gameplay purposes.
+
+✅ Educational Review
+You may view, study, and experiment with the source code locally for learning and educational purposes.
+
+3. Modification & Redistribution (IMPORTANT)
+
+⚠️ Written Permission Required
+Any modification, fork, or derivative work must NOT be published or distributed without explicit prior written permission from TheNikeHades.
+
+⚠️ Attribution Requirement
+If permission is granted:
+
+The original project must be clearly credited
+
+The original author (TheNikeHades) must be explicitly named
+
+A link to the original GitHub repository must be provided
+
+⚠️ No Unauthorized Distribution
+Original or modified versions of this software (including .jar files or source code) may not be shared, uploaded, or redistributed on:
+
+Other GitHub repositories
+
+Websites
+
+Forums
+
+Discord servers
+
+Any public or private distribution platform
+without permission
+
+4. Strict Prohibitions
+
+🚫 Commercial Use Prohibited
+This software, or any part of it:
+
+May not be sold
+
+May not be monetized
+
+May not be included in paid or commercial software, modpacks, or services
+
+🚫 False Ownership
+You may not:
+
+Remove or alter copyright notices
+
+Claim this software as your own work
+
+Rebrand or re-upload it under a different author name
+
+5. Enforcement
+
+Violation of any part of this license may result in:
+
+Immediate revocation of usage rights
+
+DMCA takedown requests
+
+Legal action where applicable
+
+6. Contact
+
+Have an idea, improvement, or want permission to modify or publish a derivative work?
+Contact the author directly via GitHub:
+
+Author: TheNikeHades
+Repository: TheNikeHades-AutoDupe-Addon
